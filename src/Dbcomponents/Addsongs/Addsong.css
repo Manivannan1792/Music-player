@@ -1,0 +1,43 @@
+#dbsearch__container {
+  text-align: -webkit-center;
+}
+
+#dbsearch__container > hr {
+  color: grey;
+  margin-top: 30px;
+  border: solid 1px;
+}
+
+#addcard__container {
+  margin: 2rem;
+}
+
+#addcard__container > .row > h1 {
+  text-align: -webkit-center;
+}
+
+#addcard__body > h5 {
+  font-family: "Raleway", sans-serif;
+  font-weight: bold;
+  color: black;
+  font-size: 15px;
+}
+
+#searchcard__container {
+  display: flex;
+  justify-content: space-between;
+}
+
+#searchcard__container > a {
+  background-color: black;
+  border: black;
+  font-weight: bold;
+  color: green;
+  text-decoration: none;
+}
+
+#searchcard__container > a:hover {
+  border: black;
+  transition: 900ms;
+  color: white;
+}
